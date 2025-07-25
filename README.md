@@ -11,7 +11,7 @@
 - Lógica de Programação (concluído ✅)
 - Git e GitHub (concluído ✅)
 - Python (em andamento 🐍)
-- Análise de Dados (em andamento 📊)
+  
 
 ---
 
